@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Angular Self paced\Assisgnment\ConAppAssisgnment-20\ConAppAssisgnment-20\bin\Debug\ConAppAssisgnment-20.exe.config
+C:\Users\Administrator\Desktop\Angular Self paced\Assisgnment\ConAppAssisgnment-20\ConAppAssisgnment-20\bin\Debug\ConAppAssisgnment-20.exe
+C:\Users\Administrator\Desktop\Angular Self paced\Assisgnment\ConAppAssisgnment-20\ConAppAssisgnment-20\bin\Debug\ConAppAssisgnment-20.pdb
+C:\Users\Administrator\Desktop\Angular Self paced\Assisgnment\ConAppAssisgnment-20\ConAppAssisgnment-20\obj\Debug\ConAppAssisgnment-20.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Angular Self paced\Assisgnment\ConAppAssisgnment-20\ConAppAssisgnment-20\obj\Debug\ConAppAssisgnment-20.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Angular Self paced\Assisgnment\ConAppAssisgnment-20\ConAppAssisgnment-20\obj\Debug\ConAppAssisgnment-20.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Angular Self paced\Assisgnment\ConAppAssisgnment-20\ConAppAssisgnment-20\obj\Debug\ConAppAssisgnment-20.exe
+C:\Users\Administrator\Desktop\Angular Self paced\Assisgnment\ConAppAssisgnment-20\ConAppAssisgnment-20\obj\Debug\ConAppAssisgnment-20.pdb
